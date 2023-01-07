@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner-container{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+    margin: 0 auto;
+}
+.banner-img{
+    width: 50%;
+    height: 70vh;
+}
+.desc-title{
+    color: black;
+    font-weight: 900;
+    font-size: 50pxpx;
+    margin-bottom: 15px;
+}
+.desc{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 15px;
+}
+.primary{
+    background-color: red;
+    border: navajowhite;
+    padding: 15px 35px;
+    font-size: 15px;
+}
