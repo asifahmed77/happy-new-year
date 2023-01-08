@@ -30,3 +30,16 @@
     padding: 15px 35px;
     font-size: 15px;
 }
+/* failure style */
+.failure-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+.failure-img{
+    height: 40px;
+}
+.failure-desc{
+    padding: 20px;
+}
